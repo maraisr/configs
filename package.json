@@ -1,0 +1,19 @@
+{
+	"name": "@marais/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "maraisr/tsconfig",
+	"author": "Marais Rossouw <hi@marais.io>",
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
