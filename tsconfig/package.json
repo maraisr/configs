@@ -2,7 +2,11 @@
 	"name": "@marais/tsconfig",
 	"version": "0.0.3",
 	"description": "Shared TypeScript config for my projects",
-	"repository": "maraisr/tsconfig",
+	"repository": {
+		"type": "git",
+		"directory": "tsconfig",
+		"url": "maraisr/configs"
+	},
 	"license": "MIT",
 	"author": {
 		"name": "Marais Rossouw",
