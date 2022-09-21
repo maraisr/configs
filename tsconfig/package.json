@@ -8,10 +8,6 @@
 		"url": "maraisr/configs"
 	},
 	"license": "MIT",
-	"author": {
-		"name": "Marais Rossouw",
-		"email": "me@marais.dev",
-		"url": "https://marais.io"
-	},
+	"author": "Marais Rossow <me@marais.dev> (https://marais.io)",
 	"main": "tsconfig.json"
 }

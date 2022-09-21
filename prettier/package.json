@@ -1,0 +1,13 @@
+{
+	"name": "@marais/prettier",
+	"version": "0.0.1",
+	"description": "Shared Prettier config for my projects",
+	"repository": {
+		"type": "git",
+		"directory": "prettier",
+		"url": "maraisr/configs"
+	},
+	"license": "MIT",
+	"author": "Marais Rossow <me@marais.dev> (https://marais.io)",
+	"main": "index.json"
+}
