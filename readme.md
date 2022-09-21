@@ -1,5 +1,5 @@
 <samp>
 
-**`@marais/tsconfig`** — Marais's tsconfig file
+**_My shared config files_**
 
 </samp>
