@@ -1,6 +1,6 @@
 {
 	"name": "@marais/tsconfig",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Shared TypeScript config for my projects",
 	"repository": "maraisr/configs",
 	"license": "MIT",
