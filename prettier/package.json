@@ -1,6 +1,6 @@
 {
 	"name": "@marais/prettier",
-	"version": "0.0.1",
+	"version": "0.0.4",
 	"description": "Shared Prettier config for my projects",
 	"repository": "maraisr/configs",
 	"license": "MIT",

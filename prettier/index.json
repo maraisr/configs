@@ -1,14 +1,16 @@
 {
+	"trailingComma": "all",
 	"proseWrap": "always",
 	"singleQuote": true,
-	"tabWidth": 4,
-	"trailingComma": "all",
 	"useTabs": true,
+	"tabWidth": 4,
 	"overrides": [
 		{
 			"files": [
-				"*.md",
-				"*.yml"
+				"*.json",
+				"*.yml",
+				"*.yaml",
+				"*.md"
 			],
 			"options": {
 				"printWidth": 120,
