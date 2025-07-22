@@ -4,6 +4,6 @@
 	"description": "Shared Prettier config for my projects",
 	"repository": "maraisr/configs",
 	"license": "MIT",
-	"author": "Marais Rossow <me@marais.dev> (https://marais.io)",
+	"author": "Marais Rossouw <me@marais.dev> (https://marais.io)",
 	"main": "index.json"
 }
